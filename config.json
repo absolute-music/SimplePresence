@@ -1,22 +1,22 @@
 {
   "textConfig": {
-    "details": "working on a bot",
-    "state": "adding more support"
+    "details": "Lucy",
+    "state": "I am having fun!"
   },
   "imageConfig": {
-    "smallKey": "nodejs",
-    "largeKey": "brackets",
-    "smallText": "node.js",
-    "largeText": "programming",
-    "showButton": true
+    "smallKey": "absolute-development",
+    "largeKey": "absolute-development",
+    "smallText": "I am having Fun with Lucy!",
+    "largeText": "Lucy",
+    "showButton": false
   },
   "timeConfig": {
     "timeType": "none",
     "whatTime": "0s"
   },
   "serviceConfig": {
-    "titlePrefix": "",
-    "artistPrefix": "",
+    "titlePrefix": "!",
+    "artistPrefix": "!",
     "useUserInterface": true,
     "useTimestamps": true,
     "customClientID": "none",
@@ -35,5 +35,5 @@
       "username": ""
     }
   },
-  "clientID": "340755371629215744"
+  "clientID": "627370793369600011"
 }
